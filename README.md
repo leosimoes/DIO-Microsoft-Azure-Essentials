@@ -1,6 +1,7 @@
 # DIO - Microsoft Azure Essentials
 
 ## Projetos
+1. Localizando Serviços por Categoria
 
 
 ## Referências
