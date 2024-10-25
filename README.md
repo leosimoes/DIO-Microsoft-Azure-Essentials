@@ -2,6 +2,7 @@
 
 ## Projetos
 1. Localizando Serviços por Categoria
+2. Criando máquinas Virtuais na Azure
 
 
 ## Referências
