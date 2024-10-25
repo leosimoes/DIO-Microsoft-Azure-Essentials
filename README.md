@@ -6,6 +6,7 @@
 3. Configurando uma instância de Banco de Dados na Azure
 4. Construindo Arquiteturas no Azure
 5. Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+6. Dominando o Armazenamento na Azure
 
 
 ## Referências
