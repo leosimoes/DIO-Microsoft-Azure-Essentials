@@ -8,6 +8,8 @@
 5. Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 6. Dominando o Armazenamento na Azure
 7. Entendendo sobre Segurança e Identidade na Azure
+8. Otimizando Custos no Azure
+
 
 
 ## Referências
