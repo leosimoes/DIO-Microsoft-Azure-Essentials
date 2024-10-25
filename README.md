@@ -3,6 +3,7 @@
 ## Projetos
 1. Localizando Serviços por Categoria
 2. Criando máquinas Virtuais na Azure
+3. Configurando uma instância de Banco de Dados na Azure
 
 
 ## Referências
