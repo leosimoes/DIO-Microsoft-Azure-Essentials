@@ -7,6 +7,7 @@
 4. Construindo Arquiteturas no Azure
 5. Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 6. Dominando o Armazenamento na Azure
+7. Entendendo sobre Segurança e Identidade na Azure
 
 
 ## Referências
