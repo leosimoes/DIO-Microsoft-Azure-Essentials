@@ -10,6 +10,7 @@
 7. Entendendo sobre Segurança e Identidade na Azure
 8. Otimizando Custos no Azure
 9. Gerenciando Politicas em Acessos Azure
+10. Ferramentas de Implantação na Azure
 
 
 ## Referências
