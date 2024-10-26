@@ -11,6 +11,7 @@
 8. Otimizando Custos no Azure
 9. Gerenciando Politicas em Acessos Azure
 10. Ferramentas de Implantação na Azure
+11. Monitoramento Inteligente com o Azure
 
 
 ## Referências
